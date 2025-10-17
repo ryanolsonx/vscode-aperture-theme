@@ -1,6 +1,6 @@
 {
   "name": "aperture",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "displayName": "Aperture Theme",
   "description": "A collection of popular VS Code color schemes re-engineered into a gradient of highlight levels. Choose your Aperture from f/22 (minimal) to f/2.8 (vibrant) for the perfect visual focus.",
   "publisher": "ryanolsonx",
