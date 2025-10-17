@@ -1,6 +1,6 @@
 {
   "name": "ryanolsonx-aperture",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "displayName": "Aperture Theme",
   "description": "A collection of popular VS Code color schemes re-engineered into a gradient of highlight levels. Choose your Aperture from f/22 (minimal) to f/2.8 (vibrant) for the perfect visual focus.",
   "publisher": "ryanolsonx",
@@ -117,6 +117,31 @@
         "label": "Atom One Dark - f/2.8 Comments + Strings + Constants + Keywords",
         "uiTheme": "vs-dark",
         "path": "./themes/atom-one-dark/2.8-comments-strings-constants-and-keywords.json"
+      },
+      {
+        "label": "Quiet Light - f/22 Nothing",
+        "uiTheme": "vs",
+        "path": "./themes/quiet-light/22-nothing.json"
+      },
+      {
+        "label": "Quiet Light - f/16 Comments",
+        "uiTheme": "vs",
+        "path": "./themes/quiet-light/16-comments.json"
+      },
+      {
+        "label": "Quiet Light - f/8 Comments + Strings",
+        "uiTheme": "vs",
+        "path": "./themes/quiet-light/8-comments-and-strings.json"
+      },
+      {
+        "label": "Quiet Light - f/4 Comments + Strings + Constants",
+        "uiTheme": "vs",
+        "path": "./themes/quiet-light/4-comments-strings-and-constants.json"
+      },
+      {
+        "label": "Quiet Light - f/2.8 Comments + Strings + Constants + Keywords",
+        "uiTheme": "vs",
+        "path": "./themes/quiet-light/2.8-comments-strings-constants-and-keywords.json"
       }
     ]
   }
