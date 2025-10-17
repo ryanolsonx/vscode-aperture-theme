@@ -1,6 +1,6 @@
 {
   "name": "ryanolsonx-aperture",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "displayName": "Aperture Theme",
   "description": "A collection of popular VS Code color schemes re-engineered into a gradient of highlight levels. Choose your Aperture from f/22 (minimal) to f/2.8 (vibrant) for the perfect visual focus.",
   "publisher": "ryanolsonx",
@@ -37,6 +37,11 @@
         "label": "Light (Visual Studio) - f/4 Comments + Strings + Constants",
         "uiTheme": "vs",
         "path": "./themes/vs-light/4-comments-strings-and-constants.json"
+      },
+      {
+        "label": "Light (Visual Studio) - f/2.8 Comments + Strings + Constants + Keywords",
+        "uiTheme": "vs",
+        "path": "./themes/vs-light/2.8-comments-strings-constants-and-keywords.json"
       }
     ]
   }
