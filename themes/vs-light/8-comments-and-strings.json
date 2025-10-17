@@ -38,12 +38,6 @@
   },
   "tokenColors": [
     {
-      "scope": "comment",
-      "settings": {
-        "foreground": "#008000"
-      }
-    },
-    {
       "scope": "emphasis",
       "settings": {
         "fontStyle": "italic"
@@ -59,6 +53,24 @@
       "scope": "meta.diff.header",
       "settings": {
         "foreground": "#000080"
+      }
+    },
+    {
+      "scope": "comment",
+      "settings": {
+        "foreground": "#008000"
+      }
+    },
+    {
+      "scope": "meta.preprocessor.string",
+      "settings": {
+        "foreground": "#A31515"
+      }
+    },
+    {
+      "scope": ["string", "meta.embedded.assembly"],
+      "settings": {
+        "foreground": "#A31515"
       }
     },
     {
@@ -113,6 +125,24 @@
       "scope": "markup.changed",
       "settings": {
         "foreground": "#0451A5"
+      }
+    },
+    {
+      "scope": "markup.inline.raw",
+      "settings": {
+        "foreground": "#800000"
+      }
+    },
+    {
+      "scope": "string.regexp",
+      "settings": {
+        "foreground": "#811F3F"
+      }
+    },
+    {
+      "scope": ["meta.template.expression"],
+      "settings": {
+        "foreground": "#000000"
       }
     },
     {
