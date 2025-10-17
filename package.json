@@ -6,7 +6,6 @@
   "publisher": "ryanolsonx",
   "repository": "https://github.com/ryanolsonx/vscode-aperture-theme",
   "license": "MIT",
-  "icon": "icon.png",
   "keywords": [
     "dark",
     "light"
